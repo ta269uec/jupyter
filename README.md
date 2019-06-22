@@ -1,2 +1,2 @@
-# jupyter
+# Jupyter Notebook
 jupyter notebook examples
